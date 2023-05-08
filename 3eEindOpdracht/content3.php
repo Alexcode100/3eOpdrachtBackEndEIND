@@ -1,0 +1,7 @@
+<article>
+  <h2>MySql</h2>
+  <img src="mysql.jpg" alt="mysql">
+  <p>
+  MySQL is een open-source relationeel databasesysteem dat wordt gebruikt voor het beheren van gestructureerde data. Het is een populair databasesysteem voor webtoepassingen en wordt vaak gebruikt in combinatie met PHP om dynamische en data-gestuurde websites te creëren. MySQL maakt gebruik van SQL (Structured Query Language) om data te manipuleren, wat zorgt voor een krachtige en flexibele manier om data op te halen, in te voegen, bij te werken en te verwijderen. MySQL is ontworpen met een focus op snelheid, betrouwbaarheid en gebruiksgemak. Het ondersteunt transacties, wat helpt bij het behouden van data-integriteit en het biedt geavanceerde functies zoals partitionering, replicatie en sharding voor het beheren van grote datasets en het verbeteren van de prestaties. MySQL wordt vaak gebruikt in de LAMP-stack (Linux, Apache, MySQL, PHP) voor webontwikkeling, maar het kan ook worden gebruikt met andere programmeertalen en besturingssystemen. De populariteit van MySQL is te danken aan de open-source aard, hoge prestaties, betrouwbaarheid en brede ondersteuning door webhostingproviders. Bovendien heeft MySQL een grote en actieve gemeenschap die bijdraagt aan de voortdurende ontwikkeling en verbetering van het product.
+  </p>
+</article>
